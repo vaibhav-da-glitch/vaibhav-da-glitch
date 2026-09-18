@@ -16,4 +16,4 @@ Most of the projects here are things I’ve built while learning or experimentin
 
 ### Around the internet
 
-LinkedIn · X · Instagram · Substack · LeetCode
+[**LinkedIn**](https://www.linkedin.com/in/vaibhav-pachkore/) **·** [**X**](https://x.com/Vabhavaz) **·** [**Substack**](https://substack.com/@vaibhavpachkore) **·** [**LeetCode**](https://leetcode.com/u/CJoNDXbyhb/)
