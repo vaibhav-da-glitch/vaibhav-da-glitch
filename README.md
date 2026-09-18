@@ -16,4 +16,4 @@ Most of the projects here are things I’ve built while learning or experimentin
 
 ### Around the internet
 
-**[GitHub](https://github.com/vaibhav-da-glitch) · [LinkedIn](https://www.linkedin.com/in/vaibhav-pachkore/) · [X](https://x.com/Vabhavaz) · 
+[GitHub](https://github.com/vaibhav-da-glitch) · [LinkedIn](https://www.linkedin.com/in/vaibhav-pachkore/) · [X](https://x.com/Vabhavaz) · 
