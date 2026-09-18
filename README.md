@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey there
 
-<!--
-**vaibhav-da-glitch/vaibhav-da-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **VAIBHAV**, a developer interested in building software and learning how things work.
 
-Here are some ideas to get you started:
+I work mainly with web development and I’m also exploring software engineering and game development. I like taking an idea, building it, and seeing where it goes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of the projects here are things I’ve built while learning or experimenting with something new. Some are finished, some are still being worked on.
+
+### A few things about me
+
+* B.Tech IT student
+* Interested in software and game development
+* I like building projects from scratch
+* Football is one of my interests
+* Always working on something new
+
+### Around the internet
+
+**[GitHub](https://github.com/vaibhav-da-glitch) · [LinkedIn](https://www.linkedin.com/in/vaibhav-pachkore/) · [X](https://x.com/Vabhavaz) · 
